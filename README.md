@@ -14,21 +14,6 @@ O que está incluso no sistema
  * Auth Guard
  * Angular Flash Message Module
 
-
-And here's some code! :+1:
-
-```javascript
-$(function(){
-  $('div').html('I am a div.');
-});
-```
-
-This is [on GitHub](https://github.com/jbt/markdown-editor) so let me know if I've b0rked it somewhere.
-
-
-Props to Mr. Doob and his [code editor](http://mrdoob.com/projects/code-editor/), from which
-the inspiration to this, and some handy implementation hints, came.
-
 ### Dependencias:
 
  * [Node.js](https://nodejs.org/en/) para backend
@@ -39,49 +24,41 @@ the inspiration to this, and some handy implementation hints, came.
 Instalando as dependencias via npm
 
 Express
-
 ```
 npm install express --save
 ```
 
 Mongoose
-
 ```
 npm install mongoose --save
 ```
 
 bcrypt
-
 ```
 npm install bcryptjs --save
 ```
 
 Cors
-
 ```
 npm install cors --save
 ```
 
 JsonWebToken
-
 ```
 npm install jsonwebtoken --save
 ```
 
 Body-Parser
-
 ```
 npm install body-parser --save
 ```
 
 Passport
-
 ```
 npm install passport --save
 ```
 
 Passport-JWT
-
 ```
 npm install passport-jwt --save
 ```
@@ -92,4 +69,4 @@ npm install passport-jwt --save
 npm install
 ```
 
-* este comando irá baixar todas as dependencias configuradas em seu package.json
+* este comando irá baixar todas as dependencias configuradas em seu package.json :+1:
