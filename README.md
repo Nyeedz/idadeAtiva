@@ -70,3 +70,8 @@ npm install
 ```
 
 * este comando irá baixar todas as dependencias configuradas em seu package.json :+1:
+* após executado este comando, desconpactar a pasta angular-src.zip para dentro da pasta angular-src e executar também este mesmo comando:
+
+```
+npm install
+```
